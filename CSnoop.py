@@ -21,7 +21,7 @@ def print_help():
     help_text = '''
 CNAME Tracker - Retrieve CNAME of a domain
 
-Usage: python cname_tracker.py [-d DOMAIN] [-l FILE] [-H]
+Usage: python CSnoop.py [-d DOMAIN] [-l FILE] [-H]
 
 Options:
   -d, --domain DOMAIN  Retrieve CNAME of a single domain
