@@ -3,7 +3,7 @@
 
 Usage
 
-    python cnamesnoop.py [-d DOMAIN] [-l FILE] [-H]
+    python CSnoop.py [-d DOMAIN] [-l FILE] [-H]
 
 ## Features
 
