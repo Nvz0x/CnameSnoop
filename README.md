@@ -30,26 +30,26 @@ Usage
 
 - To retrieve the CNAME record for a single domain, use the -d or --domain option followed by the domain name:
 
-      python cnamesnoop.py -d example.com
+      python CSnoop.py -d example.com
 
 - To retrieve CNAME records for multiple domains listed in a file, use the -l or --list option followed by the path to the file:
 
-      python cnamesnoop.py -l domains.txt
+      python CSnoop.py -l domains.txt
 
 - To display the help message, use the -H or --helpmsg option:
 
-      python cnamesnoop.py -H
+      python CSnoop.py -H
 
 # Examples
 
 ### Retrieve CNAME for a single domain
-    python cnamesnoop.py -d example.com
+    python CSnoop.py -d example.com
 
 ### Retrieve CNAME for multiple domains listed in a file
-    python cnamesnoop.py -l domains.txt
+    python CSnoop.py -l domains.txt
 
 ### Display help message
-    python cnamesnoop.py -H
+    python CSnoop.py -H
 
 Contributing:
 
