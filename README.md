@@ -19,7 +19,7 @@ Usage
 ## Installation
 - Clone the repository:
 
-      git clone https://github.com/iRoyall/cnamesnoop.git
+      git clone https://github.com/Nvz0x/cnamesnoop.git
       cd cnamesnoop
 
 ### Install the required dns library:
